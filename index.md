@@ -1,12 +1,11 @@
 
-<h1><p align="center"> 生日快乐！<br> <br> 🎁 Happy Brithday 🎂 </p > </h1>
+<h1><p align="center"> 生日快乐！<br> <br> 🎁 Happy Birthday 🎂 </p > </h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/104710311/167244641-9822b881-a7ca-4770-9f85-ddba56cd0c0f.jpg" width="521" /> 
 </p>
 <p align="center">
 
-<br>
 
 
 # Love memories for Zhou Guangling & Cui Xianghan ❤️
@@ -40,6 +39,8 @@ P.S. 因为想给你个小惊喜（或许你已经猜到了），所以照片都
 
 ----
 
+<br>
+
 ## 2020
 
 <p align="center">
@@ -48,6 +49,8 @@ P.S. 因为想给你个小惊喜（或许你已经猜到了），所以照片都
 <p align="center">
   2020年的那个夏天，不仅仅是中国火星探测征途的开始，更是我们俩故事的开始。
 </p>
+
+<br>
 
 | Part 1 | 相遇 |
 | ---- | ---- |
@@ -63,6 +66,8 @@ P.S. 因为想给你个小惊喜（或许你已经猜到了），所以照片都
   2020年10月21日，我们在一起啦！
 </p>
 
+<br>
+
 | Part 2 | 在一起 |
 | ---- | ---- |
 |2020.10.22，终于收到了你的照片😄|![1651473688894](https://user-images.githubusercontent.com/104710311/166647377-a98adb49-e326-4651-85b7-551fc56def2d.jpg) |
@@ -72,12 +77,17 @@ P.S. 因为想给你个小惊喜（或许你已经猜到了），所以照片都
 |2020.12.29，这是我出发去海南找你见面前的一天，我怀着激动的心情从北医三院拿着核酸报告回到了宿舍，那天天气十分晴好。|![1651655344826](https://user-images.githubusercontent.com/104710311/166652960-12e6b53c-a451-49da-b2e2-90cbc4004b27.jpg)|
 
 ----
+
+<br>
+
 ## 2021
 
 ![D81D28CB-6400-43C0-8CCA-A6D7320A3E2C_1_201_a](https://user-images.githubusercontent.com/104710311/166654788-cf40f3d3-0152-4dc2-b86f-e2c2541801b8.jpeg)
 <p align="center">
   2020年12月30日，我踏上了前往海口的飞机，中国联合航空KN5819，我们终于要见面啦。当时我的心情既有激动也有一丝丝的不安。
 </p>
+
+<br>
 
 |Part 3|第一次正式见面|
 |----|----|
