@@ -1,5 +1,4 @@
-
-<h1><p align="center"> 生日快乐! 🎁 Happy Birthday 🎂 </p> </h1>
+<h1><p align="center"> 生日快乐! <br> <br> 🎁 Happy Birthday 🎂 </p> </h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/104710311/167244641-9822b881-a7ca-4770-9f85-ddba56cd0c0f.jpg" width="521" /> 
@@ -24,8 +23,6 @@ P.S. 因为想给你个小惊喜（或许你已经猜到了），所以照片都
 
   
 <h2><span id="jump"><p align="center">目录 </p> </span></h2>
-
-
 1. <h4><a href="https://czmemory.github.io/#2020" >2020</a></h4>
 2. <h4><a href="https://czmemory.github.io/#2021" >2021</a></h4>
 3. <h4><a href="https://czmemory.github.io/#2022" >2022</a></h4>
