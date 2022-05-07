@@ -1,8 +1,10 @@
 
 <h1><p align="center"> 生日快乐！<br> <br> 🎁 Happy Brithday 🎂 </p > </h1>
 
-![1651909740633](https://user-images.githubusercontent.com/104710311/167244641-9822b881-a7ca-4770-9f85-ddba56cd0c0f.jpg)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/104710311/167244641-9822b881-a7ca-4770-9f85-ddba56cd0c0f.jpg" width="521" /> 
+</p>
+<p align="center">
 
 <br>
 
@@ -15,7 +17,29 @@
 
 P.S. 因为想给你个小惊喜（或许你已经猜到了），所以照片都是来自我的角度，我也很期待从你的视角来补齐那些重要的瞬间。
 
+<br>
+  
+<br>
+
+<br>
+
+  
+<h2><span id="jump"><p align="center">目录 </p> </span></h2>
+
+
+1. <h4><a href="https://czmemory.github.io/#2020" >2020</a></h4>
+2. <h4><a href="https://czmemory.github.io/#2021" >2021</a></h4>
+3. <h4><a href="https://czmemory.github.io/#2022" >2022</a></h4>
+
+
+<br>
+
+<br>
+
+<br>
+
 ----
+
 ## 2020
 
 <p align="center">
