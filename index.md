@@ -2,8 +2,6 @@
 
 <br>
 
-<br>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/104710311/167246771-338bd447-267b-40fa-ba5b-47d05aeb4b50.jpg" width="520" /> 
 </p>
