@@ -15,25 +15,6 @@
 
 P.S. 因为想给你个小惊喜（或许你已经猜到了），所以照片都是来自我的角度，我也很期待从你的视角来补齐那些重要的瞬间。
 
-<br>
-  
-<br>
-
-<br>
-
-  
-<h2><span id="jump"><p align="center">目录 </p> </span></h2>
-1. <h4><a href="https://czmemory.github.io/#2020" >2020</a></h4>
-2. <h4><a href="https://czmemory.github.io/#2021" >2021</a></h4>
-3. <h4><a href="https://czmemory.github.io/#2022" >2022</a></h4>
-
-
-<br>
-
-<br>
-
-<br>
-
 ----
 
 <br>
