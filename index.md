@@ -1,4 +1,7 @@
 <h1><p align="center"> 生日快乐! <br> <br> 🎁 Happy Birthday 🎂 </p> </h1>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/104710311/167246519-662d0319-4072-4bd9-a66f-15cd57618154.jpg" width="131" /> 
+</p>
 
 # Love memories for Zhou Guangling & Cui Xianghan ❤️
 
@@ -22,11 +25,6 @@ P.S. 因为想给你个小惊喜（或许你已经猜到了），所以照片都
 2. <h4><a href="https://czmemory.github.io/#2021" >2021</a></h4>
 
 3. <h4><a href="https://czmemory.github.io/#2022" >2022</a></h4>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/104710311/167246519-662d0319-4072-4bd9-a66f-15cd57618154.jpg" width="131" /> 
-</p>
-
 
 
 <br>
