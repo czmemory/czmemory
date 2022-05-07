@@ -23,8 +23,10 @@ P.S. 因为想给你个小惊喜（或许你已经猜到了），所以照片都
 
 3. <h4><a href="https://czmemory.github.io/#2022" >2022</a></h4>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/104710311/167246519-662d0319-4072-4bd9-a66f-15cd57618154.jpg" width="1314" /> 
+</p>
 
-![1651655344826](https://user-images.githubusercontent.com/104710311/167246519-662d0319-4072-4bd9-a66f-15cd57618154.jpg)
 
 
 <br>
