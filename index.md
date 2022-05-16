@@ -28,8 +28,8 @@ P.S. 因为想给你个小惊喜（或许你已经猜到了），所以照片都
 <h2><span id="jump"><p align="center">目录 </p> </span></h2>
 
 1. <h4><a href="https://czmemory.github.io/#2020" >2020</a></h4>
-    1.1 <h4><a href="https://czmemory.github.io/#part-1" >Part 1 相遇</a></h4>
-    1.2 <h4><a href="https://czmemory.github.io/#part-2" >Part 2 在一起</a></h4>
+    1. <h4><a href="https://czmemory.github.io/#part-1" >Part 1 相遇</a></h4>
+    2. <h4><a href="https://czmemory.github.io/#part-2" >Part 2 在一起</a></h4>
 2. <h4><a href="https://czmemory.github.io/#2021" >2021</a></h4>
     2.1 <h4><a href="https://czmemory.github.io/#part-3" >Part 3 第一次正式见面</a></h4>
     2.2 <h4><a href="https://czmemory.github.io/#part-4" >Part 4 三月之行</a></h4>
